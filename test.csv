@@ -1,0 +1,10 @@
+word,tag
+Microsoft,B-ORG
+announced,O
+a,O
+new,O
+product,O
+.,O
+,
+Alice,B-PER
+Smith,I-PER

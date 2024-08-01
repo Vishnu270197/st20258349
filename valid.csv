@@ -1,0 +1,11 @@
+word,tag
+France,B-LOC
+is,O
+a,O
+country,O
+in,O
+Europe,B-LOC
+.,O
+,
+John,B-PER
+Doe,I-PER
